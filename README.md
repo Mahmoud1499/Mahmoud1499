@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 <img align="left" alt="SQL" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/sql.png" />
 
 <br />
+<br />
 <!-- C --> <a href="https://www.cprogramming.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
 <!-- C++ --> <a href="https://www.w3schools.com/cpp/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
 <!-- Bootstrap --> <a href="https://www.bootstrap.com"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height="40" alt="Bootstrap"> </a>
