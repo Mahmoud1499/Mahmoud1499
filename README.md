@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 ### :computer: These are my networks and ways to contact me
 <p align="center">
 	<a href="https://github.com/Mahmoud1499"><img src="https://camo.githubusercontent.com/439d559885a8195d5a91a92f8a72e29767e011b9a15933e26f28a0b551c5706d/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f6769746875622e706e67" alt="GitHub" data-canonical-src="https://img.icons8.com/bubbles/50/000000/github.png" style="max-width:100%;"></a>
-	<a href="www.linkedin.com/in/mahmoud1499" rel="nofollow"><img src="https://camo.githubusercontent.com/4710c8417adc9fc1e9fe4b44a7f6b2451d053cdfc0ac97550b67dc268973b14e/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f6c696e6b6564696e2e706e67" alt="LinkedIn" data-canonical-src="https://img.icons8.com/bubbles/50/000000/linkedin.png" style="max-width:100%;"></a>
-	<a href="[https://twitter.com/danielex1999]" rel="nofollow"><img src="https://camo.githubusercontent.com/008f85aee25d0f5bc0cf1c094b9119cadd815195417779a7d94623aa2d6ed53f/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f747769747465722d636972636c65642e706e67" alt="Twitter" data-canonical-src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" style="max-width:100%;"></a>
+	<a href="https://www.linkedin.com/in/mahmoud1499" rel="nofollow"><img src="https://camo.githubusercontent.com/4710c8417adc9fc1e9fe4b44a7f6b2451d053cdfc0ac97550b67dc268973b14e/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f6c696e6b6564696e2e706e67" alt="LinkedIn" data-canonical-src="https://img.icons8.com/bubbles/50/000000/linkedin.png" style="max-width:100%;"></a>
+	<a href="[https://twitter.com/Mahmoud_1499]" rel="nofollow"><img src="https://camo.githubusercontent.com/008f85aee25d0f5bc0cf1c094b9119cadd815195417779a7d94623aa2d6ed53f/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f747769747465722d636972636c65642e706e67" alt="Twitter" data-canonical-src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" style="max-width:100%;"></a>
 	<a href="mailto:mahmoudmahmed1499@gmail.com"><img src="https://camo.githubusercontent.com/c841b41a94a72ef5dc5fcdb9e7b92951d73541fdbf0b62d7459cba13a9d8e016/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f656d61696c2e706e67" alt="emial" data-canonical-src="https://img.icons8.com/bubbles/50/000000/email.png" style="max-width:100%;"></a>
   <a href="https://www.instagram.com/mahmoud.1499/" rel="nofollow"><img src="https://camo.githubusercontent.com/ea4db2b6cd2146fcbc3406b7b9e5971e23d03766aa7a3b3256dedda8918970f0/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f77686174736170702e706e67" alt="Instagram" data-canonical-src="https://img.icons8.com/bubbles/50/000000/instagram.png" style="max-width:100%;"></a>
 </p>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 
 # 📈 Statistics 📈
-![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
+![](https://komarev.com/ghpvc/?username=Mahmoud1499&color=447ff7&label=Visitor+count)
 
 <p align="center">
   <a href="https://github.com/Mahmoud1499">
