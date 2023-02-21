@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br />
 
 
-### 🧰 Languages
+### 🧰 Languages and technologies
 
 <img align="left" alt="HTML5" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/css.png" />
@@ -41,7 +41,12 @@ Here are some ideas to get you started:
 <img align="left" alt="Python" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/python.png" />
 <img align="left" alt="SQL" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/sql.png" />
 
+<br />
+<!-- C --> <a href="https://www.cprogramming.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+<!-- C++ --> <a href="https://www.w3schools.com/cpp/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
+<!-- Bootstrap --> <a href="https://www.bootstrap.com"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height="40" alt="Bootstrap"> </a>
 
+<br />
 <br />
 
 ### 🧰 Tools
@@ -49,6 +54,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Git" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png" />
 <img align="left" alt="Figma" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/figma.png" />
+<!-- Canva --> <a href="https://www.canva.com"> <img src="https://downloadr2.apkmirror.com/wp-content/uploads/2020/09/16/5f6d56870bd85.png" alt="Canva" height="40"> </a>
 
 <br />
 <br />
@@ -67,7 +73,10 @@ Here are some ideas to get you started:
 	<a href="[https://twitter.com/Mahmoud_1499]" rel="nofollow"><img src="https://camo.githubusercontent.com/008f85aee25d0f5bc0cf1c094b9119cadd815195417779a7d94623aa2d6ed53f/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f747769747465722d636972636c65642e706e67" alt="Twitter" data-canonical-src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" style="max-width:100%;"></a>
 	<a href="mailto:mahmoudmahmed1499@gmail.com"><img src="https://camo.githubusercontent.com/c841b41a94a72ef5dc5fcdb9e7b92951d73541fdbf0b62d7459cba13a9d8e016/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f656d61696c2e706e67" alt="emial" data-canonical-src="https://img.icons8.com/bubbles/50/000000/email.png" style="max-width:100%;"></a>
 
-
+### See me at:
+  <a href="https://www.leetcode.com/mahmoudmahmed1499"> <img align="left" src="https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=black"> </a>
+  
+  <br> <br>
 ---
 ### 🏆 GitHub Profile Trophy:
 
