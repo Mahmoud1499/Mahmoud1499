@@ -18,7 +18,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br />
 
+- 🌱 Currently I'm learning Full Stack Development
+- 👯 I’m looking to collaborate on Web Development Projects
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm in confusion, can you help me to choose the color for the website design
+
+<br />
+<br />
+<br />
+<br />
+
+
+### 🧰 Languages
+
+<img align="left" alt="HTML5" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/javascript.png" />
+
+<img align="left" alt="Java" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/java.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/python.png" />
+<img align="left" alt="SQL" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/sql.png" />
+
+### 🧰 Tools
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png" />
+<img align="left" alt="Figma" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/figma.png" />
+
+<br />
+<br />
 
 
 
@@ -36,6 +66,8 @@ Here are some ideas to get you started:
 
 
 ---
+### 🏆 GitHub Profile Trophy:
+
 <p align="center">
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=Mahmoud1499&margin-w=10&row=1&theme=gruvbox&no-bg=true"/>
 </p>
@@ -59,3 +91,10 @@ Here are some ideas to get you started:
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
+<!--   Top Languages Using -->
+### 👨‍💻 Top Languages Used*:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahmoud1499&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahmoud1499&theme=nord_dark)
+	
+	
+	
