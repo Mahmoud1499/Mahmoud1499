@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 <!-- C --> <a href="https://www.cprogramming.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
 <!-- C++ --> <a href="https://www.w3schools.com/cpp/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
 <!-- Bootstrap --> <a href="https://www.bootstrap.com"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height="40" alt="Bootstrap"> </a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 
 <br />
 <br />
