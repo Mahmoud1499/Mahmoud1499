@@ -41,6 +41,9 @@ Here are some ideas to get you started:
 <img align="left" alt="Python" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/python.png" />
 <img align="left" alt="SQL" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/sql.png" />
 
+
+<br />
+
 ### 🧰 Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/git.png" />
@@ -78,6 +81,12 @@ Here are some ideas to get you started:
 # 📈 Statistics 📈
 ![](https://komarev.com/ghpvc/?username=Mahmoud1499&color=447ff7&label=Visitor+count)
 
+### 👨‍💻 Top Languages Used*:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahmoud1499&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahmoud1499&theme=nord_dark)
+
+<br>
+
 <p align="center">
   <a href="https://github.com/Mahmoud1499">
     <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud1499&show_icons=true&theme=github_dark&hide_border=true" />
@@ -92,9 +101,7 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 <!--   Top Languages Using -->
-### 👨‍💻 Top Languages Used*:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahmoud1499&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahmoud1499&theme=nord_dark)
+
 	
 	
 	
