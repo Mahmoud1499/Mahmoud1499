@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🌱 Currently I'm learning Full Stack Development
 - 👯 I’m looking to collaborate on Web Development Projects
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm in confusion, can you help me to choose the color for the website design
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/mahmoud1499" rel="nofollow">LinkedIn </a>
 
 <br />
 <br />
